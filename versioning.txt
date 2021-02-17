@@ -1,0 +1,32 @@
+170620 - 1.1
+- Support NUC5, NUC6, NUC7, DMP-5510
+- Add video drivers to support DMP-5510 deployments
+- Removed public share
+- Driver cleanup script
+- Do not enable RDP
+- Do not install TightVNC
+- Provisioning registry timestamps
+- Post-configurator/OOBE windows update check
+- W10 lockdown updates
+
+170710 - 1.2
+- Support NUC5, NUC6, NUC7, DMP-5510, UP-CHT01
+- Added support for up board
+- New Audit script to support up board
+- Windows Update PS script fix
+- Added versioning readme.txt to scripts folder
+- New Firewall changes
+
+170830 - 1.3
+- New Configurator build for hostname and profile option
+
+171018 - no version change
+- New build to ensure drivers and patches for wifi vulverablity are installed
+
+180405 - VM - 1.4
+- Firewall rule changes
+- Font Package installed
+
+180418 - 1.5
+- Disable auto update and end of deployment
+- Registry changes
